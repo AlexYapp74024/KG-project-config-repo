@@ -6,7 +6,7 @@ app:
   dbHostName: localhost
   dbPort: 3306
   dbUsername: root
-  dbPassword: #enter mysql db password
+  dbPassword: 1Chinese
   dbName: users_db
   keycloak:
     realm: spring-boot-kc
